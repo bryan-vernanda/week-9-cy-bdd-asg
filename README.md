@@ -76,7 +76,7 @@ The separation of concerns ensures that UI changes, test logic, and scenario des
 ## 🔍 Key Findings
 
 1. ✅ **Login Feature:**  
-   The login feature works flawlessly with no errors or unexpected behavior during test execution.
+   The login feature works flawlessly, with no errors or unexpected behavior during test execution for both positive and negative cases.
 
 2. ⚠️ **Add Admin Feature:**  
    While adding a new admin works as expected, the `username` field must be **unique** on every test run.  
